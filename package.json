@@ -1,0 +1,25 @@
+{
+  "name": "sjobergan.github.io",
+  "version": "1.0.0",
+  "description": "TBD",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install express"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sjobergan/sjobergan.github.io.git"
+  },
+  "keywords": [
+    "tbd"
+  ],
+  "author": "Oskar S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sjobergan/sjobergan.github.io/issues"
+  },
+  "homepage": "https://github.com/Sjobergan/sjobergan.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
