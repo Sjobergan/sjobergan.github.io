@@ -1,7 +1,3 @@
-$font-familty: Helvetica, sans-serif;
-
-$primary-color: #333;
-
 /*
 ! tailwindcss v3.0.23 | MIT License | https://tailwindcss.com
 */
@@ -472,7 +468,35 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-backdrop-sepia:  ;
 }
 
-body{
-  font: 100% $font-familty;
-  color: $primary-color;
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #333;
+  padding: 8px;
 }
+
+h1{
+  font-size: 38px;
+  padding: 16 0 16 0;
+}
+
+h2{
+  font-size: 34px;
+  padding: 12 0 12 0;
+}
+
+h3{
+  font-size: 30px;
+  padding: 8 0 8 0;
+}
+
+h4{
+  font-size: 26px;
+  padding: 8 0 8 0;
+}
+
+h5{
+  font-size: 22px;
+  padding: 8 0 8 0;
+}
+
+/*# sourceMappingURL=output.css.map */
