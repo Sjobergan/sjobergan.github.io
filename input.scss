@@ -1,6 +1,11 @@
 $font-familty: Helvetica, sans-serif;
 $primary-color: #333;
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
 body{
     font: 100% $font-familty;
     color: $primary-color;

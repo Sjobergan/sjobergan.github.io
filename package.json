@@ -21,5 +21,8 @@
   "homepage": "https://github.com/Sjobergan/sjobergan.github.io#readme",
   "dependencies": {
     "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
   }
 }
